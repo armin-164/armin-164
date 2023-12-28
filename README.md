@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi there! I'm Armin Sadr, a passionate student diving into the world of front-end development 🚀. Currently honing my skills in HTML, CSS, and JavaScript to craft engaging and user-friendly web experiences.
 
-<!--
-**armin-164/armin-164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Studying Frontend Development at Medieinstitutet, I'm on a journey to blend creativity with technology. Embracing the latest trends and best practices in web development, I'm always eager to learn and explore new concepts.
 
-Here are some ideas to get you started:
+💻 My playground includes coding and designing websites, experimenting with UI/UX principles. Constantly seeking challenges to level up my skills and contribute to the ever-evolving web landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on group assignment for my JavaScript course. The goal of the assignment is to create a functional quiz with 20 general questions.
+
+🌱 I’m currently learning JavaScript/TypeScript and Vite.
+
+
+🔧 Tech Stack:
+- HTML5
+- CSS3 (Sass/SCSS)
+- JavaScript (ES6+)
+- TypeScript
+- Git & GitHub
+- Vite & Webpack
