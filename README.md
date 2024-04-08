@@ -4,9 +4,9 @@
 
 💻 My playground includes coding and designing websites, experimenting with UI/UX principles. Constantly seeking challenges to level up my skills and contribute to the ever-evolving web landscape.
 
-🔭 I’m currently working on group assignment for my JavaScript course. The goal of the assignment is to create a functional quiz with 20 general questions.
+🔭 I'm currently involved in a group project where our objective is to design interfaces and implement designs created by others.
 
-🌱 I’m currently learning JavaScript/TypeScript and Vite.
+🌱 I’m currently learning about collaborative design implementation
 
 
 🔧 Tech Stack:
